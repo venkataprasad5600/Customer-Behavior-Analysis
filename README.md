@@ -1,8 +1,8 @@
-Customer Behavior Analysis :
+# 📌 Customer Behavior Analysis :
 Overview
 This project focuses on analyzing customer behavior through segmentation and lookalike modeling. By leveraging customer profiles, transaction data, and product information, we identify meaningful clusters and recommend similar customers for targeted strategies.
 
-Key Objectives
+# 🎯 Key Objectives
 Customer Segmentation:
 Some of Insights Gained from the data are :
 1: Customers from South America form a large share of the customer base, followed by Asia and Europe. However, transaction frequency is relatively low in Europe compared to the other regions. 
@@ -20,7 +20,7 @@ Some of Insights Gained from the data are :
  
 
 
-Lookalike Modeling:
+# 💻Lookalike Modeling:
 Top 3 similar customers for each user, along with their similarity scores.
 Output stored in a CSV file (VenkataPrasad_Papadasu_Lookalike.csv).
 
